@@ -1,0 +1,9 @@
+Escape/BuildingEscape/Intermediate/
+Escape/BuildingEscape/Binaries/
+Escape/BuildingEscape/DerivedDataCache/
+Escape/BuildingEscape/Build/
+Escape/BuildingEscape/Saved/
+Escape/BuildingEscape/Binaries/
+Escape/BuildingEscape/Content/StarterContent/
+*.db
+Escape/BuildingEscape/.vs/
